@@ -1,5 +1,10 @@
 <p align="right"><a href="https://luffm.github.io/Jigsaw-Puzzles/">Jigsaw Puzzles</a></p>
 
+## The Apothecary Diaries Character Scenes (Mosaic)
+2026-09-25<br>
+![Apothecary Diaries](images/2026-09-25-Apothecary_Diaries.jpg)
+<br>1000 pieces
+
 ## Thousands of Flower Bouquet (Senbon Umishima)
 2026-02-16<br>
 ![Thousands of Flower Bouquet](images/2026-02-16-Thousands_of_Flower_Bouquet.jpg)
